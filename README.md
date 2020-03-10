@@ -1,6 +1,7 @@
 # @caijs/nlg
 
 [![Build Status](https://travis-ci.com/CAI-js/nlg.svg?branch=master)](https://travis-ci.com/CAI-js/nlg)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/nlg/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/nlg?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/nlg.svg?style=flat)](https://www.npmjs.com/package/@caijs/nlg)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/nlg.svg?style=flat)](https://www.npmjs.com/package/@caijs/nlg)
 
