@@ -1,5 +1,9 @@
 # @caijs/nlg
 
+[![Build Status](https://travis-ci.com/CAI-js/nlg.svg?branch=master)](https://travis-ci.com/CAI-js/nlg)
+[![NPM version](https://img.shields.io/npm/v/@caijs/nlg.svg?style=flat)](https://www.npmjs.com/package/@caijs/nlg)
+[![NPM downloads](https://img.shields.io/npm/dm/@caijs/nlg.svg?style=flat)](https://www.npmjs.com/package/@caijs/nlg)
+
 @caijs/nlg allow to use declare answers for locales and intents, and retreive a random answer from all that are valid taking account the conditions.
 Also, the answer will be renderer based on the context and in the option lists.
 
