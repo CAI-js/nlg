@@ -30,9 +30,9 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@caijs/container": "^1.0.1",
-    "@caijs/eval": "^1.0.2",
-    "@caijs/template": "^1.0.2",
+    "@caijs/container": "^1.0.2",
+    "@caijs/eval": "^1.0.3",
+    "@caijs/template": "^1.0.3",
     "coveralls": "^3.0.9",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
